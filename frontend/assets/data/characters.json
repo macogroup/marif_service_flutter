@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c1",
+    "name": "Алиса",
+    "description": "Милый и добрый собеседник",
+    "tags": ["милый", "весёлый"],
+    "imageAsset": "assets/images/avatars/placeholder.svg",
+    "likes": 1200,
+    "author": "creator1"
+  },
+  {
+    "id": "c2",
+    "name": "Макс",
+    "description": "Смелый и внимательный",
+    "tags": ["сексуальный", "весёлый"],
+    "imageAsset": "assets/images/avatars/placeholder.svg",
+    "likes": 980,
+    "author": "creator2"
+  },
+  {
+    "id": "c3",
+    "name": "Юки",
+    "description": "Спокойный, любит аниме",
+    "tags": ["милый"],
+    "imageAsset": "assets/images/avatars/placeholder.svg",
+    "likes": 860,
+    "author": "creator3"
+  },
+  {
+    "id": "c4",
+    "name": "Лили",
+    "description": "Тёплая и искренняя",
+    "tags": ["милый"],
+    "imageAsset": "assets/images/avatars/placeholder.svg",
+    "likes": 1110,
+    "author": "creator4"
+  },
+  {
+    "id": "c5",
+    "name": "Джек",
+    "description": "Остроумный шутник",
+    "tags": ["весёлый"],
+    "imageAsset": "assets/images/avatars/placeholder.svg",
+    "likes": 740,
+    "author": "creator5"
+  },
+  {
+    "id": "c6",
+    "name": "София",
+    "description": "Элегантная и уверенная",
+    "tags": ["сексуальный"],
+    "imageAsset": "assets/images/avatars/placeholder.svg",
+    "likes": 1320,
+    "author": "creator6"
+  }
+]
+

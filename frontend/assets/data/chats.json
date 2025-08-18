@@ -1,0 +1,12 @@
+{
+  "pinned": [
+    {"id": "p1", "name": "Алиса", "lastMessage": "До встречи!", "time": "10:24", "unreadCount": 0, "avatarAsset": "assets/images/avatars/placeholder.svg"},
+    {"id": "p2", "name": "Макс", "lastMessage": "Как дела?", "time": "09:12", "unreadCount": 2, "avatarAsset": "assets/images/avatars/placeholder.svg"}
+  ],
+  "items": [
+    {"id": "c1", "name": "Алиса", "lastMessage": "Хорошего дня!", "time": "10:24", "unreadCount": 0, "avatarAsset": "assets/images/avatars/placeholder.svg"},
+    {"id": "c2", "name": "Макс", "lastMessage": "Пойдём в кино?", "time": "09:12", "unreadCount": 2, "avatarAsset": "assets/images/avatars/placeholder.svg"},
+    {"id": "c3", "name": "Юки", "lastMessage": "О чём поговорим?", "time": "Вчера", "unreadCount": 1, "avatarAsset": "assets/images/avatars/placeholder.svg"}
+  ]
+}
+
